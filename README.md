@@ -4,5 +4,5 @@
 
 <h3>Screen View</h3>
 
-![](assets/RockPaperScissors.gif)
+![](/src/assets/RockPaperScissors.gif)
 
